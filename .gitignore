@@ -1,0 +1,1 @@
+-e "/bin/\n/target/\n.classpath\n.project\n.settings/\n*.class" 
